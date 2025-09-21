@@ -1,0 +1,11 @@
+D:\Hazem\ATOS\C# Project\StudentRegister\StudentRegister\bin\Debug\StudentRegister.exe.config
+D:\Hazem\ATOS\C# Project\StudentRegister\StudentRegister\bin\Debug\StudentRegister.exe
+D:\Hazem\ATOS\C# Project\StudentRegister\StudentRegister\bin\Debug\StudentRegister.pdb
+D:\Hazem\ATOS\C# Project\StudentRegister\StudentRegister\obj\Debug\StudentRegister.csproj.AssemblyReference.cache
+D:\Hazem\ATOS\C# Project\StudentRegister\StudentRegister\obj\Debug\StudentRegister.Form1.resources
+D:\Hazem\ATOS\C# Project\StudentRegister\StudentRegister\obj\Debug\StudentRegister.Properties.Resources.resources
+D:\Hazem\ATOS\C# Project\StudentRegister\StudentRegister\obj\Debug\StudentRegister.csproj.GenerateResource.cache
+D:\Hazem\ATOS\C# Project\StudentRegister\StudentRegister\obj\Debug\StudentRegister.csproj.CoreCompileInputs.cache
+D:\Hazem\ATOS\C# Project\StudentRegister\StudentRegister\obj\Debug\StudentRegister.exe
+D:\Hazem\ATOS\C# Project\StudentRegister\StudentRegister\obj\Debug\StudentRegister.pdb
+D:\Hazem\ATOS\C# Project\StudentRegister\StudentRegister\obj\Debug\StudentRegister.exe.config
