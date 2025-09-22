@@ -280,7 +280,7 @@ namespace StudentRegister
             textBox5.Visible = false;
             textBox6.Visible = false;
             MessageBox.Show($"{students[totalNumberOfStudents-1].Name} has been registered");
-            _currentStudent++;
+            CurrentStudent++;
             if (_currentStudent >= numberOfNewStudents)
             {
                 UpdateStudentList();
@@ -325,3 +325,4 @@ namespace StudentRegister
         }
     }
 }
+
